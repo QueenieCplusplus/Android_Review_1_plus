@@ -1,8 +1,40 @@
 # Android_Review_1_plus
 Toast &amp; extract res/val/string &amp; default import hotkey
 
+
+ ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_plus/main/27.output%203.png)
+
+
+
 layout see:
 
+
+          <?xml version="1.0" encoding="utf-8"?>
+
+         <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:orientation="vertical"
+             android:layout_gravity="center_vertical"
+             tools:context=".MainActivity">
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_gravity="center_horizontal"
+                 android:textSize="30sp"
+                 android:text="@string/txt1" />
+
+             <Button
+                 android:id="@+id/btn"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_gravity="center_horizontal"
+                 android:text="@string/btn1" />
+
+
+         </LinearLayout>
 
 
 
@@ -34,8 +66,6 @@ code see:
                      Toast.LENGTH_SHORT).show()
              }
          }
-
-   ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_plus/main/27.output%203.png)
    
    
 * build gradle at module level, not project level.
