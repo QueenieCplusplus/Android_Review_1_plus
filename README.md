@@ -25,3 +25,6 @@ Toast &amp; extract res/val/string &amp; default import hotkey
    * defaultly import modules
    
      ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_plus/main/21.opt%20%2B%20enter%20%3D%20import%20default.png)
+
+
+* project see https://github.com/QueenieCplusplus/Android_Review_1_plus/tree/main/KatesKotlinAndroid2021
