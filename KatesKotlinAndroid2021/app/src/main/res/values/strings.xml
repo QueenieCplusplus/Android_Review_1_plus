@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KatesKotlinAndroid2021</string>
+    <string name="btn1">Click on me</string>
+    <string name="txt1">Kate is back from 2018, love kotlin and android!</string>
+</resources>
