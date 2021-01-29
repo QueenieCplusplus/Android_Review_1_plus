@@ -6,6 +6,10 @@ Toast &amp; extract res/val/string &amp; default import hotkey
 * attrs in Layout
 
      ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_plus/main/16.add%20gravity%20attrs.png)
+     
+* debug  
+
+    ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_plus/main/24.debug.png)
 
 * hot key ( opt + enter )
 
