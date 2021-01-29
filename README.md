@@ -2,6 +2,11 @@
 Toast &amp; extract res/val/string &amp; default import hotkey
 
    ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_plus/main/27.output%203.png)
+   
+   
+* build gradle at module level, not project level.
+
+     ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_plus/main/2.module%20level%20build%20gradle.png)
 
 * attrs in Layout
 
